@@ -25,7 +25,7 @@ public class C06_artikYilSorusu {
         }
 
 
-
+furkan ekledi
 
 
 
